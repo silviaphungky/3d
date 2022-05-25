@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+  background: black;
+  height: 100vh;
+}
+
+.App .canvas {
+  height: 500px !important;
 }
 
 .App-logo {
